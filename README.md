@@ -70,6 +70,7 @@ Body
   type: email
   ```
 - password: 
+
   ```
   A password is considered strong if:
     - 8 characters length or more
