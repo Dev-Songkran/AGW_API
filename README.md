@@ -36,7 +36,8 @@ Body
 
   success 
   200 {
-    message: "success"
+    message: "success",
+    userId: USER_ID
   }
 
   error
